@@ -1,5 +1,8 @@
+
 .App {
   text-align: center;
+  font-family: "Satisfy";
+  
 }
 
 .App-logo {
@@ -35,4 +38,8 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+textarea#floatingTextarea2{
+  font-size: larger; ;
 }
